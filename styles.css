@@ -11,7 +11,7 @@ body {
     background-image: url("https://static.stereogum.com/blogs.dir/2/files/2008/03/rickroll-still-compressed.jpg");
     background-repeat: repeat-x repeat-y;
     animation-name: strobe;
-    animation-duration: 0.1s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
 }
 
