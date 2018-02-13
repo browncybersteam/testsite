@@ -1,0 +1,12 @@
+p {
+    background-color: blueviolet;
+    font-family: Courier New, Courier, monospace;
+}
+
+p:hover {
+    background-color: orange;
+}
+
+body {
+    background: linear-gradient(darkturquoise, rgb(146, 51, 255));
+}
