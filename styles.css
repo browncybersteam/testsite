@@ -8,5 +8,6 @@ p:hover {
 }
 
 body {
-    background: linear-gradient(darkturquoise, rgb(146, 51, 255));
+    background-image: url("https://static.stereogum.com/blogs.dir/2/files/2008/03/rickroll-still-compressed.jpg");
+    background-repeat: repeat-x repeat-y;
 }
